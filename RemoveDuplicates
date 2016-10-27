@@ -5,6 +5,8 @@ public class RemoveDupicates {
 		String str = "Java J2EE Java JSP J2EE";
 		char element = 'a';
 		countString(str, element);
+		// To Remove in one line in Strings
+		// str = str.replace("element", "");
 
 	}
 
@@ -24,3 +26,5 @@ public class RemoveDupicates {
 
 	}
 }
+
+
